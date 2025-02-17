@@ -19,6 +19,9 @@
         <mxCell id="UCWeSszv6lEBVH8OaO0e-12" value="&lt;b&gt;Курьер&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-194" y="-1124" width="138" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="UCWeSszv6lEBVH8OaO0e-16" value="&lt;b&gt;Сборщик&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-332.5" y="-1400.5" width="415" height="23" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
