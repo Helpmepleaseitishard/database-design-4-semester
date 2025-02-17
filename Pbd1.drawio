@@ -1,20 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="26.0.14" pages="2">
   <diagram name="Page-1" id="VNwUibFlDRlw8HC49428">
-    <mxGraphModel dx="844" dy="2516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="3432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LiRikPYWmBomV_C3oDem-1" value="Архив разработчика. Не трогать" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-133" y="-2089" width="558" height="188" as="geometry" />
+        </mxCell>
         <mxCell id="UCWeSszv6lEBVH8OaO0e-12" value="&lt;b&gt;Курьер&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-194" y="-1124" width="138" height="23" as="geometry" />
         </mxCell>
         <mxCell id="UCWeSszv6lEBVH8OaO0e-16" value="&lt;b&gt;Менеджер&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-332.5" y="-1400.5" width="415" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="-wVaxchEMx99c8RxEgrg-18" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="242" y="-1809" width="80" height="80" as="geometry" />
+        <mxCell id="-wVaxchEMx99c8RxEgrg-18" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="-2035" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-wVaxchEMx99c8RxEgrg-19" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;rotation=45;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="257.75" y="-1793.25" width="48.5" height="48.5" as="geometry" />
+        <mxCell id="-wVaxchEMx99c8RxEgrg-19" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;rotation=45;fontColor=#000000;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="240.75" y="-2019.25" width="48.5" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="-wVaxchEMx99c8RxEgrg-41" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-159" y="-1701" width="1078" height="657" as="geometry" />
@@ -331,14 +334,14 @@
         <mxCell id="UCWeSszv6lEBVH8OaO0e-9" value="Клиент" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="-wVaxchEMx99c8RxEgrg-41" vertex="1">
           <mxGeometry width="1078" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="-wVaxchEMx99c8RxEgrg-71" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="369" y="-1827" width="100" height="100" as="geometry" />
+        <mxCell id="-wVaxchEMx99c8RxEgrg-71" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="-2062" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-wVaxchEMx99c8RxEgrg-72" value="" style="shape=note;size=12;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="542" y="-1763" width="31" height="34" as="geometry" />
+        <mxCell id="-wVaxchEMx99c8RxEgrg-72" value="" style="shape=note;size=12;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="93" y="-1996" width="31" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="-wVaxchEMx99c8RxEgrg-74" value="" style="shape=note;size=12;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="28" y="-1768.5" width="39" height="45" as="geometry" />
+        <mxCell id="-wVaxchEMx99c8RxEgrg-74" value="" style="shape=note;size=12;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-2007" width="39" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
