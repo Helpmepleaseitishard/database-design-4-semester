@@ -1,23 +1,17 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="26.0.14" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="26.0.14" pages="3">
   <diagram name="Page-1" id="VNwUibFlDRlw8HC49428">
-    <mxGraphModel dx="872" dy="3174" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="3407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LiRikPYWmBomV_C3oDem-1" value="Архив разработчика. Не трогать" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="-133" y="-2089" width="558" height="188" as="geometry" />
+        <mxCell id="HbU8nOxD72YHFLuD5XxC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="-1710" width="1098" height="679" as="geometry" />
         </mxCell>
         <mxCell id="UCWeSszv6lEBVH8OaO0e-12" value="&lt;b&gt;Курьер&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-156.75" y="-1086.75" width="63.5" height="23" as="geometry" />
         </mxCell>
         <mxCell id="UCWeSszv6lEBVH8OaO0e-16" value="&lt;b&gt;Менеджер&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-332.5" y="-1400.5" width="415" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="-wVaxchEMx99c8RxEgrg-18" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="225" y="-2035" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-wVaxchEMx99c8RxEgrg-19" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;rotation=45;fontColor=#000000;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="240.75" y="-2019.25" width="48.5" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="-wVaxchEMx99c8RxEgrg-41" value="" style="group;labelBackgroundColor=default;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-159" y="-1701" width="1078" height="657" as="geometry" />
@@ -354,30 +348,24 @@
         <mxCell id="UCWeSszv6lEBVH8OaO0e-9" value="Клиент" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="-wVaxchEMx99c8RxEgrg-41" vertex="1">
           <mxGeometry width="1078" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="-wVaxchEMx99c8RxEgrg-71" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="-28" y="-2062" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-wVaxchEMx99c8RxEgrg-72" value="" style="shape=note;size=12;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="93" y="-1996" width="31" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="-wVaxchEMx99c8RxEgrg-74" value="" style="shape=note;size=12;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-2007" width="39" height="45" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="m3sLRt8Mp-KrVZj2h2nP" name="Page-2">
-    <mxGraphModel dx="872" dy="2774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1270" dy="3106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UCeh9ULoI4jj5UsQAf7v-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#23445d;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="-1714" width="1101" height="737" as="geometry" />
+        </mxCell>
         <mxCell id="OPBrNxLoen03CILED_NK-1" value="&lt;b&gt;Курьер&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-157" y="-1087" width="64" height="23" as="geometry" />
         </mxCell>
         <mxCell id="OPBrNxLoen03CILED_NK-2" value="&lt;b&gt;Менеджер&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-332.5" y="-1400.5" width="415" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="OPBrNxLoen03CILED_NK-3" value="" style="group;labelBackgroundColor=default;" parent="1" vertex="1" connectable="0">
+        <mxCell id="OPBrNxLoen03CILED_NK-3" value="" style="group;labelBackgroundColor=#D5E8D4;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-159" y="-1701" width="1078" height="708" as="geometry" />
         </mxCell>
         <mxCell id="OPBrNxLoen03CILED_NK-4" value="Продажа билетов через тематические выездные шоу &quot;Шапито на выезд&quot;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelBackgroundColor=default;" parent="OPBrNxLoen03CILED_NK-3" vertex="1">
@@ -535,7 +523,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OPBrNxLoen03CILED_NK-84" value="Клиент" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="OPBrNxLoen03CILED_NK-3" vertex="1">
+        <mxCell id="OPBrNxLoen03CILED_NK-84" value="Клиент" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="OPBrNxLoen03CILED_NK-3" vertex="1">
           <mxGeometry width="1078" height="95.90867579908675" as="geometry" />
         </mxCell>
         <mxCell id="XX6D7FiziJw9cou4RuRL-1" value="&lt;b&gt;Сборщик&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
@@ -546,6 +534,32 @@
             <mxPoint x="-135" y="-1107" as="sourcePoint" />
             <mxPoint x="920" y="-1107" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-cER8A68JJsa-zJCqrTi" name="Page-3">
+    <mxGraphModel dx="1249" dy="774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nwnKzuktpeVlPcg8_Ijs-2" value="Архив разработчика. Не трогать" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="139" width="558" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="nwnKzuktpeVlPcg8_Ijs-3" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="193" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nwnKzuktpeVlPcg8_Ijs-4" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;rotation=45;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="363.75" y="208.75" width="48.5" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nwnKzuktpeVlPcg8_Ijs-5" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="166" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nwnKzuktpeVlPcg8_Ijs-6" value="" style="shape=note;size=12;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="232" width="31" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="nwnKzuktpeVlPcg8_Ijs-7" value="" style="shape=note;size=12;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="221" width="39" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
