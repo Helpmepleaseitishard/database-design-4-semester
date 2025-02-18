@@ -360,7 +360,7 @@
         <mxCell id="OPBrNxLoen03CILED_NK-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-159" y="-1701" width="1078" height="657" as="geometry" />
         </mxCell>
-        <mxCell id="OPBrNxLoen03CILED_NK-4" value="Продажа билетов через тематические выездные шоу &quot;Шапито на выезд&quot;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="OPBrNxLoen03CILED_NK-3">
+        <mxCell id="OPBrNxLoen03CILED_NK-4" value="Продажа билетов через тематические выездные шоу &quot;Шапито на выезд&quot;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OPBrNxLoen03CILED_NK-3">
           <mxGeometry y="104" width="1078" height="553" as="geometry" />
         </mxCell>
         <mxCell id="OPBrNxLoen03CILED_NK-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="OPBrNxLoen03CILED_NK-4" source="OPBrNxLoen03CILED_NK-4">
@@ -399,7 +399,7 @@
         <mxCell id="OPBrNxLoen03CILED_NK-88" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="OPBrNxLoen03CILED_NK-4" source="OPBrNxLoen03CILED_NK-34" target="OPBrNxLoen03CILED_NK-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OPBrNxLoen03CILED_NK-34" value="Изменить статус заказа на &quot;Отменён&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OPBrNxLoen03CILED_NK-4">
+        <mxCell id="OPBrNxLoen03CILED_NK-34" value="Изменить статус заказа на &quot;Доставлен&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="OPBrNxLoen03CILED_NK-4">
           <mxGeometry x="706" y="448" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OPBrNxLoen03CILED_NK-35" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="OPBrNxLoen03CILED_NK-4">
