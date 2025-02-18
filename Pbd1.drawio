@@ -352,11 +352,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m3sLRt8Mp-KrVZj2h2nP" name="Page-2">
-    <mxGraphModel dx="1613" dy="3106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1112" dy="2774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UCeh9ULoI4jj5UsQAf7v-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#23445d;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="UCeh9ULoI4jj5UsQAf7v-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#23445d;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-170" y="-1714" width="1101" height="737" as="geometry" />
         </mxCell>
         <mxCell id="OPBrNxLoen03CILED_NK-1" value="&lt;b&gt;Курьер&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
@@ -386,7 +386,7 @@
         <mxCell id="OPBrNxLoen03CILED_NK-96" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="OPBrNxLoen03CILED_NK-4" source="OPBrNxLoen03CILED_NK-10" target="OPBrNxLoen03CILED_NK-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OPBrNxLoen03CILED_NK-10" value="Передать курьеру собранный заказ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="OPBrNxLoen03CILED_NK-4" vertex="1">
+        <mxCell id="OPBrNxLoen03CILED_NK-10" value="Передать курьеру инвентарь и созвать актёров" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="OPBrNxLoen03CILED_NK-4" vertex="1">
           <mxGeometry x="307" y="188.58447488584474" width="120" height="64.65753424657534" as="geometry" />
         </mxCell>
         <mxCell id="OPBrNxLoen03CILED_NK-11" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="OPBrNxLoen03CILED_NK-4" vertex="1">
@@ -512,8 +512,8 @@
         <mxCell id="OPBrNxLoen03CILED_NK-94" value="" style="ellipse;html=1;shape=endState;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;perimeterSpacing=0;labelBorderColor=none;labelBackgroundColor=none;fillStyle=auto;" parent="OPBrNxLoen03CILED_NK-4" vertex="1">
           <mxGeometry x="487.25" y="204.74885844748857" width="30" height="32.32876712328767" as="geometry" />
         </mxCell>
-        <mxCell id="OPBrNxLoen03CILED_NK-95" value="Собранный заказ передан курьеру" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="OPBrNxLoen03CILED_NK-4" vertex="1">
-          <mxGeometry x="445.5" y="154.10045662100455" width="113.5" height="32.32876712328767" as="geometry" />
+        <mxCell id="OPBrNxLoen03CILED_NK-95" value="Актёры и инвентарь переданы курьеру" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="OPBrNxLoen03CILED_NK-4" vertex="1">
+          <mxGeometry x="412" y="154.1" width="156" height="32.33" as="geometry" />
         </mxCell>
         <mxCell id="OPBrNxLoen03CILED_NK-99" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=13.5;exitDy=0;exitPerimeter=0;entryX=0.843;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;dashed=1;dashPattern=1 4;" parent="OPBrNxLoen03CILED_NK-4" source="OPBrNxLoen03CILED_NK-41" target="OPBrNxLoen03CILED_NK-8" edge="1">
           <mxGeometry relative="1" as="geometry">
